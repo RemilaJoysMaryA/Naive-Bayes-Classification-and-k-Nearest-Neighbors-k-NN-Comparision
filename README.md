@@ -2,12 +2,12 @@ This project focuses on improving the classification accuracy of rice plant dise
 
 Inference
 PCA with Naive Bayesian Classification:
-●	Before PCA: 61.69% validation accuracy
-●	After PCA: 66.28% validation accuracy
+●	Before PCA: 61.69% validation accuracy.
+●	After PCA: 66.28% validation accuracy.
 
 LDA with K-Nearest Neighbors:
-●	Before LDA: 55.82% validation accuracy
-●	After LDA: 94.24% validation accuracy
+●	Before LDA: 55.82% validation accuracy.
+●	After LDA: 94.24% validation accuracy.
 
 Comparison: 
 Applying PCA improved the validation accuracy of the Naive Bayesian Classification model by approximately 4.59 percentage points, indicating that PCA helped in enhancing the model's performance slightly by reducing dimensionality and possibly removing noise.
